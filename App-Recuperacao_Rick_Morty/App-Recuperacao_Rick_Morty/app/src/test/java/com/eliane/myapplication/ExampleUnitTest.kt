@@ -1,4 +1,4 @@
-package com.eliane.myapplication
+package com.arthur.myapplication
 
 import org.junit.Test
 
