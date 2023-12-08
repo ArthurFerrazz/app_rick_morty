@@ -1,7 +1,7 @@
 package com.eliane.myapplication
 
-import com.eliane.myapplication.model.Character
-import com.eliane.myapplication.model.Pagination
+import com.arthur.myapplication.model.Character
+import com.arthur.myapplication.model.Pagination
 
 data class CharactersRequest(
     val info: Pagination,
