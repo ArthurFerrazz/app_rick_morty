@@ -1,4 +1,4 @@
-package com.eliane.myapplication
+package com.arthur.myapplication
 
 import com.arthur.myapplication.model.Character
 import com.arthur.myapplication.model.Pagination
